@@ -1,8 +1,11 @@
-# 📊 Unemployment Analysis with Python
+# Unemployment Analysis with Python
 
 This repository contains a data analysis project focused on **unemployment trends in India** using Python. The dataset provides monthly unemployment statistics for various Indian states and union territories.
 
-## 📝 Project Overview
+## Problem Statement
+Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
+
+## Project Overview
 
 This notebook includes:
 - Data cleaning and preprocessing
@@ -11,33 +14,23 @@ This notebook includes:
 - Handling missing and duplicate values
 - Region-wise unemployment insights
 
-## 📂 Dataset
+## Dataset
 
 The dataset used is `unemployment_in_india.csv` which contains:
 - **768 rows** and **7 columns**
 - Fields such as: `Region`, `Date`, `Frequency`, `Estimated Unemployment Rate`, `Estimated Employed`, etc.
 - Contains **27 duplicate rows** and **28 null values** per column
 
-> 📌 *Note: The dataset is expected to be in the same directory as the notebook.*
+## Technologies Used
 
-## 🧰 Technologies Used
-
-- Python 3.x
+- Python 3.9.13
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-## 📉 Visualizations
+## Visualizations
 
 The analysis includes:
 - Time series plots of unemployment rate
-- Bar charts for regional comparisons
-- Distribution and trend plots
-
-## 🔍 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/unemployment-analysis.git
-   cd unemployment-analysis
+- Trend plots
 
