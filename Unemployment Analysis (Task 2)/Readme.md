@@ -41,5 +41,11 @@ The analysis includes:
 
 ## Conclusions
 
+- India's unemployment rate spiked during the COVID-19 period. It remained stable around 9–10% until mid-2020, then surged above 24% due to lockdowns. As restrictions eased, the unemployment rate gradually declined, approaching pre-pandemic levels.
+- The top five states with the highest unemployment rates are Tripura, Haryana, Jharkhand, Bihar, and Himachal Pradesh.
+- The top five states with the lowest unemployment rates are Meghalaya, Odisha, Assam, Uttarakhand, and Gujarat.
+- Around mid-2020, urban and rural unemployment rates experienced a sharp increase due to the COVID-19 lockdowns. Urban unemployment rate spiked above 25%, while rural unemployment rate also rose significantly, though it did not reach the same level as the urban rate.
+  
+
 
 
