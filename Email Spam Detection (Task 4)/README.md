@@ -34,6 +34,6 @@ This notebook walks through a machine learning pipeline that includes:
 - WordCloud plot visualization for most used words in spam messages
 
 ## Conclusions
-
-
-
+- Accuracy of model is 96.77% , this means the model correctly classified ~97% of the messages as either spam or ham.
+- The model is excellent at identifying ham.
+- Very cautious about flagging spam — no false alarms, but might let some spam slip through.
